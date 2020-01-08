@@ -1,6 +1,7 @@
 # Basic_GitHub
 
 ## Download an updated directory from GitHub as `master`
+### Download GitHub directory contents in your local directory
 In the command line,
 ```
 cd your_directory
@@ -9,10 +10,12 @@ For example,
 ```
 cd smg
 ```
-Download all files in your_directory.
+Download all files in your_directory (for example, all files in smg directory).
 ```
 git pull origin master
 ```
+
+### Create a new directory locally
 Create a new directory in your_directory and create README file.
 ```
 mkdir your_new_directory
@@ -34,6 +37,7 @@ git status
 ```
 This will display the changes in red.
 
+### Upload your local changes to GitHub directory
 Add the changes so that you can commit them, and check the status.
 ```
 git add your_changes_in_red
