@@ -33,7 +33,6 @@ For exmaple, I created smg/incubate/adventitious_virus since my new directory sh
 
 Check the changes you've made.
 ```
-cd ../
 git status
 ```
 This will display the changes in red.
