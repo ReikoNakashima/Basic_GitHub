@@ -1,14 +1,14 @@
 # Basic_GitHub
 
 ## Download an updated directory from GitHub as `master`
-### Download GitHub directory contents in your local directory
-In the command line,
+### Download updated GitHub directory contents into your local directory
+In the command line
 ```
 cd your_directory
 ```
 For example,
 ```
-cd smg
+cd GitHub_files/smg
 ```
 Download all files in your_directory (for example, all files in smg directory).
 ```
