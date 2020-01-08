@@ -15,8 +15,9 @@ Download all files in your_directory (for example, all files in smg directory).
 git pull origin master
 ```
 
-### Create a new directory locally
-Create a new directory in your_directory and create README file.
+### Make changes locally in the downloaded directory
+
+I create a new directory in your_directory and create README file.
 ```
 mkdir your_new_directory
 cd your_new_directory
