@@ -1,4 +1,5 @@
 # Basic_GitHub
+This note is to update your GitHub repository.
 
 ## Download an updated directory from GitHub as `master`
 ### Download updated GitHub directory contents into your local directory
