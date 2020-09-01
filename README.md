@@ -1,17 +1,31 @@
 # Basic_GitHub
-This note is to update your GitHub repository.
+This note is to update a GitHub repository.
+
+## Clone a GitHub repository
+Nagivate to the reopsitory main page. 
+
+Find "Clone with HTTPS" and copy the address such as;
+https://github.com/XXXX/XXX.git
+
+In the local terminal, navigate to the directory in which you want to download the GitHub contents. And then type ```git clone```
+```
+cd your_local_directory
+git clone https://github.com/XXXX/XXX.git
+```
+The download will be completed.
+
 
 ## Download an updated directory from GitHub as `master`
 ### Download updated GitHub directory contents into your local directory
-In the command line
+In the local terminal
 ```
-cd your_directory
+cd your_local_directory
 ```
 For example,
 ```
 cd GitHub_files/smg
 ```
-Download all files in your_directory (for example, all files in smg directory).
+Download all files to your_local_directory (for example, all files in smg directory).
 ```
 git pull origin master
 ```
