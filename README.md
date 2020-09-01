@@ -1,4 +1,4 @@
-# Basic_GitHub
+# Basic GitHub
 This note is to update a GitHub repository.
 
 ## Clone a GitHub repository
